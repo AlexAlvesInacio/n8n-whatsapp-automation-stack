@@ -34,15 +34,33 @@ Criação de uma stack completa com:
 - Fallback para humano
 
 ## 📸 Evidências
-Veja a pasta `/screenshots` para prints reais do sistema em produção.
+## 📸 Evidências do sistema em produção
 
-## 🧠 Aprendizados
-- Orquestração de automações reais
-- Integrações REST
-- Tratamento de erros
-- Escalabilidade
-- Observabilidade básica
+### 🔄 Workflow de automação no n8n
+Fluxo responsável por validar horário comercial, controlar envios, evitar duplicidade e realizar follow-up automático.
 
+![Workflow n8n](screenshots/n8n-workflow.png)
+
+---
+
+### 📊 Dashboard de atendimento no Chatwoot
+Painel utilizado para acompanhamento das conversas, distribuição para atendimento humano e histórico de mensagens.
+
+![Dashboard Chatwoot](screenshots/chatwoot-dashboard.png)
+
+---
+
+### 📡 Instâncias WhatsApp na Evolution API
+Gerenciamento das conexões WhatsApp utilizadas pela automação, com controle de status e sessões ativas.
+
+![Evolution API](screenshots/evolution-instances.png)
+
+---
+
+### 🧱 Infraestrutura em VPS (EasyPanel)
+Ambiente Docker rodando em VPS Ubuntu 24.04, com serviços isolados e monitoramento básico.
+
+![EasyPanel](screenshots/easypanel.png)
 ## 🚀 Próximos passos
 - IA para classificação de leads
 - Embeddings para histórico de conversa
