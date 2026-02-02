@@ -31,4 +31,4 @@ Automatizar o envio de campanhas via WhatsApp utilizando templates da Meta, gara
 A imagem abaixo representa o fluxo real configurado no n8n para o envio de campanhas de WhatsApp utilizando templates da Meta.
 
 ![Fluxo n8n - Campanha Quarta-feira](../screenshots/quarta-feira.png)
-![Fluxo n8n - Campanha Quarta-feira](../screenshots/n8n-workflow.png
+![Fluxo n8n - Campanha Quarta-feira](../screenshots/n8n-workflow.png)
