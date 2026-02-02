@@ -172,4 +172,4 @@ Este projeto demonstra capacidade real de:
 
 ## 💬 Frase final
 
-> **“Não criei as ferramentas — criei o sistema funcionando.”**
+> **“Não trabalhei apenas na automação mais também instalei e configurei todos os sistema.”**
